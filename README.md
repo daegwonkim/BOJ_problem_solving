@@ -1,6 +1,3 @@
-# BOJ_problem_solving
-
-BOJ(BaekJoon Online Judge) 사이트에 있는 문제들에 대한 문제 해결 코드를 정리하기 위한 공간입니다.
-
-블로그에 따로 게시한 코드들도 있으니 참고바랍니다.
-https://daegwonkim.tistory.com/
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=40&pause=1000&center=true&vCenter=true&width=435&lines=%EB%B0%B1%EC%A4%80+%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4" alt="Typing SVG" /></a>
+</div>
